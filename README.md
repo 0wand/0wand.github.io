@@ -1,1 +1,2 @@
-# 0wand.github.io
+# plakat-ta.github.io
+Плакат ИС-206
